@@ -1,0 +1,34 @@
+baseURL = 'https://suyihao.github.io'
+languageCode = 'zh-tw'
+title = 'hihi'
+theme = "PaperMod"
+buildDrafts = false 
+[[menu.main]]
+
+identifier = "tags"
+
+name = "I"
+
+url = "/tags/"
+
+weight = 10
+
+[[menu.main]]
+
+identifier = "categories"
+
+name = "II"
+
+url = "/categories/"
+
+weight = 20
+
+[[menu.main]]
+ 
+identifier = "archives"
+ 
+name = "Archives"
+ 
+url = "/archives/"
+ 
+weight = 30
